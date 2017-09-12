@@ -1,17 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans); /* Google Fonts Link (www.google.com/fonts) */
+
 body {
     margin: 60px auto;
     width: 70%;
+
+nav {
+	position: relative;
+	top: 0px;
+	text-align: right;
+	height: 40px;
+	word-spacing: 10px;
+	margin-top: 10px;
+	margin-right: 20px;
+	color: #7f8c8d;
+	font-family: 'Open Sans', sans-serif;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
+    
 a {
     text-decoration: none;
     color: #999;
