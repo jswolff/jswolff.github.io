@@ -20,6 +20,16 @@ a {
     text-decoration: none;
     color: #999;
 }
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
 	
 h1 {
 	text-align: right;
