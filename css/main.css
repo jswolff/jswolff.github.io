@@ -21,16 +21,30 @@ a {
     color: #999;
 }
 	
-a:hover {
-    text-decoration: underline;
-}
-	
 h1 {
 	text-align: right;
 	margin-left: 20px;
 	margin-top: 10px;
 	font-family: 'Arvo', serif;
 	font-size: x-large;
+	color: #7f8c8d;
+}
+
+h2 {
+	text-align: right;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-family: 'Arvo', serif;
+	font-size: large;
+	color: #7f8c8d;
+}
+
+h3	{
+	text-align: right;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-family: 'Arvo', serif;
+	font-size: medium;
 	color: #7f8c8d;
 }
 
